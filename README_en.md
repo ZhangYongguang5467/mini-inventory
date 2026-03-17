@@ -130,24 +130,3 @@ For Docker deployment instructions, please refer to [Docker Deployment Guide](RE
 ## 📄 License
 
 This project is licensed under the MIT License
-
-## ☕ Buy Me a Coffee
-If you find this project helpful, you can support me through the following methods:
-
-<div align="center">
-  <img src="./asset/buyme.jpg" width="30%" /> &nbsp;&nbsp;&nbsp; <img src="./asset/wechat.jpg" width="30%" />
-</div>
-
-
-## 📞 Contact Us
-
-For questions, suggestions, or customization needs, please contact us through the following channels:
-
-- Project Issues: [Submit Issue](https://github.com/zhtyyx/ioe/issues)
-- Email: zhtyyx@gmail.com
-
----
-
-<div align="center">
-  Software copyright has been registered. If you have any questions, please contact me.
-</div>
